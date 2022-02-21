@@ -1,0 +1,12 @@
+DOCKER
+
+1. Write Dockerfile
+2. Build image
+3. Run
+
+a. Building docker image
+docker build -t money_api . #ejemplo
+
+running the docker
+
+docker run -p 8000:8000 money_api

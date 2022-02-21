@@ -1,0 +1,26 @@
+1. Aprender tensorflow
+
+1.a Leer documentacion tensorflow de CNN
+
+1.b Revisar Codigo que tengo
+
+1.c buscar tuning de CNN (callbacks, etc)
+
+2. Buscar imagenes
+
+2.a Buscar imagenes de pandas
+    Script para buscar en reddit, script para buscar en google
+2.b Buscar imagenes random
+    Parece que si o si hacen falta otras imagenes. 
+    Ver https://stackoverflow.com/questions/57309958/one-class-classification-using-keras-and-python
+    
+Notas y preguntas:
+
+Tensorflow aceptar JPEG y PNG
+imagemagick para convertir imagenes si hace falta
+Resize images (por las dudas):https://auth0.com/blog/image-processing-in-python-with-pillow/
+
+TUNING:
+-Data augmentation
+-Callback early stopping
+-Dropout layers
